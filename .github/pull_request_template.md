@@ -1,15 +1,18 @@
 ## Describe your changes
+<!--- Describe your changes in detail -->
 1. Integrated ...
 2. Changed ....
 3. Added ...
 
 ## Related Tickets
+<!--- Please link to the issue(s) here: -->
 1. Clickup link here
 2. Another link if necessary 
 
 ## Checklist before requesting a review
 - [ ] I have performed a self-review of my code
+- [ ] My changes generate no new warningss
+- [ ] Any dependent changes have been merged
 - [ ] Integration tests pass
 - [ ] Linters pass
 - [ ] Unit tests pass
-
