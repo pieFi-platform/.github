@@ -9,6 +9,9 @@
 1. Clickup link here
 2. Another link if necessary 
 
+## How to test
+1. Go to postman and use...
+
 ## Checklist before requesting a review
 - [ ] I have performed a self-review of my code
 - [ ] My changes generate no new warningss
