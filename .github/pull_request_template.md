@@ -10,7 +10,9 @@
 2. Another link if necessary 
 
 ## How to test
+<!--- Provide details for the reviewer -->
 1. Go to postman and use...
+2. Go to DAO page and click a post...
 
 ## Checklist before requesting a review
 - [ ] I have performed a self-review of my code
